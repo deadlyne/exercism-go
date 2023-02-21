@@ -1,0 +1,9 @@
+{
+    "go.buildFlags": [
+        "-tags=functional"
+    ],
+    "go.testTags": "functional",
+    "gopls": {
+        "experimentalWorkspaceModule": true,
+    }
+}
